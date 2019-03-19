@@ -1,4 +1,4 @@
-package com.example.permissionsapp;
+package com.example.flutterpermissionsapp;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

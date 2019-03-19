@@ -1,4 +1,4 @@
-# permissionsapp
+# flutterpermissionsapp
 
 A new Flutter project.
 
